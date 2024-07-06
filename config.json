@@ -1,0 +1,8 @@
+{
+  "token": "YOUR_TOKEN_BOT",
+  "owner": [
+    1, 2, 3, 4
+  ],
+  "prefix": "$",
+  "slot_category_name": "NAME_OF_YOUR_CATEGORY_SLOT"
+}

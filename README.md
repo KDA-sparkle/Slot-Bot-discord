@@ -1,4 +1,8 @@
-# Slot Bot by @Sparkle | kda_delta (discord)
+Sure, here's a translation of the text into English:
+
+---
+
+# Slot Bot by @Sparkle | kda_delta (Discord)
 
 ![Slot Bot](https://img.shields.io/badge/Slot%20Bot-v1.0-blue.svg)
 
@@ -90,5 +94,6 @@ For any questions or issues, feel free to open an issue on GitHub or contact me 
 
 Happy coding!
 
+---
 
 Replace `"YOUR_BOT_TOKEN"`, `"OWNER_ID1"`, and `"OWNER_ID2"` with your actual bot token and owner IDs. You can also customize the repository link and contact information as per your preferences.

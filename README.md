@@ -43,7 +43,7 @@ Slot Bot is a Discord bot developed for educational purposes to manage slots in 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/slot-bot.git
+   git clone https://github.com/KDA-sparkle/Slot-Bot-discord.git
    cd slot-bot
    ```
 

@@ -1,7 +1,3 @@
-Sure, here's a translation of the text into English:
-
----
-
 # Slot Bot by @Sparkle | kda_delta (Discord)
 
 ![Slot Bot](https://img.shields.io/badge/Slot%20Bot-v1.0-blue.svg)
